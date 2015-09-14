@@ -1,2 +1,2 @@
-# modular_jQuery_plugin_boilerplate
+# modular jQuery plugin boilerplate
 Boilerplate for writing modular jQuery plugins. (requireJS, commonJS, etc…)
