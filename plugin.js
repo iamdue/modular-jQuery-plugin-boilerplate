@@ -2,7 +2,6 @@
  * modular jQuery plugin boilerplate
  * @version 1.0
  * @author Gyorgy Sagi <gyorgy.sagi@gmail.com>
- * @desc dropCrossZone is an implementation of a dropZone file uploader for crosssec
  */
 
 'use strict';
