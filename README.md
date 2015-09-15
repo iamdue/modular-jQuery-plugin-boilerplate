@@ -6,6 +6,11 @@ Contribute
 ----------
 If you feel that you can help improve the code, then feel free to contact me to contribute on this boilerplate.
 
+License
+-------
+MIT License
+
 Author
 ------
 Gyorgy Sagi (gyorgy.sagi[at]gmail.com)
+
