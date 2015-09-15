@@ -1,4 +1,4 @@
-# modular_jQuery_plugin_boilerplate
+# modular jQuery plugin boilerplate
 Boilerplate for writing modular jQuery plugins. (requireJS, commonJS, etc…).
 This plugin boilerplate frame is successfully used is several projects that use modular async js loading with requireJS.
 
